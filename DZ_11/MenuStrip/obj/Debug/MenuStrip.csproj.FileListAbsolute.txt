@@ -1,0 +1,36 @@
+E:\WindowsForms\DZ\DZ_11\MenuStrip\bin\Debug\MenuStrip.exe.config
+E:\WindowsForms\DZ\DZ_11\MenuStrip\bin\Debug\MenuStrip.exe
+E:\WindowsForms\DZ\DZ_11\MenuStrip\bin\Debug\MenuStrip.pdb
+E:\WindowsForms\DZ\DZ_11\MenuStrip\obj\Debug\MenuStrip.Form1.resources
+E:\WindowsForms\DZ\DZ_11\MenuStrip\obj\Debug\MenuStrip.Properties.Resources.resources
+E:\WindowsForms\DZ\DZ_11\MenuStrip\obj\Debug\MenuStrip.csproj.GenerateResource.cache
+E:\WindowsForms\DZ\DZ_11\MenuStrip\obj\Debug\MenuStrip.csproj.CoreCompileInputs.cache
+E:\WindowsForms\DZ\DZ_11\MenuStrip\obj\Debug\MenuStrip.exe
+E:\WindowsForms\DZ\DZ_11\MenuStrip\obj\Debug\MenuStrip.pdb
+E:\WindowsForms\DZ\DZ_11\MenuStrip\obj\Debug\MenuStrip.Form2.resources
+E:\WindowsForms\DZ\DZ_11\MenuStrip\obj\Debug\MenuStrip.Form3.resources
+E:\WindowsForms\DZ\DZ_11\MenuStrip\obj\Debug\MenuStrip.csprojAssemblyReference.cache
+D:\Kim\WINDOWS FORMS2\DZ_11\DZ_11\MenuStrip\bin\Debug\MenuStrip.exe.config
+D:\Kim\WINDOWS FORMS2\DZ_11\DZ_11\MenuStrip\bin\Debug\MenuStrip.exe
+D:\Kim\WINDOWS FORMS2\DZ_11\DZ_11\MenuStrip\bin\Debug\MenuStrip.pdb
+D:\Kim\WINDOWS FORMS2\DZ_11\DZ_11\MenuStrip\obj\Debug\MenuStrip.csprojResolveAssemblyReference.cache
+D:\Kim\WINDOWS FORMS2\DZ_11\DZ_11\MenuStrip\obj\Debug\MenuStrip.Form1.resources
+D:\Kim\WINDOWS FORMS2\DZ_11\DZ_11\MenuStrip\obj\Debug\MenuStrip.Form2.resources
+D:\Kim\WINDOWS FORMS2\DZ_11\DZ_11\MenuStrip\obj\Debug\MenuStrip.Form3.resources
+D:\Kim\WINDOWS FORMS2\DZ_11\DZ_11\MenuStrip\obj\Debug\MenuStrip.Properties.Resources.resources
+D:\Kim\WINDOWS FORMS2\DZ_11\DZ_11\MenuStrip\obj\Debug\MenuStrip.csproj.GenerateResource.cache
+D:\Kim\WINDOWS FORMS2\DZ_11\DZ_11\MenuStrip\obj\Debug\MenuStrip.csproj.CoreCompileInputs.cache
+D:\Kim\WINDOWS FORMS2\DZ_11\DZ_11\MenuStrip\obj\Debug\MenuStrip.exe
+D:\Kim\WINDOWS FORMS2\DZ_11\DZ_11\MenuStrip\obj\Debug\MenuStrip.pdb
+E:\WindowsForms\DZ\DZ_11_\DZ_11\MenuStrip\bin\Debug\MenuStrip.exe.config
+E:\WindowsForms\DZ\DZ_11_\DZ_11\MenuStrip\bin\Debug\MenuStrip.exe
+E:\WindowsForms\DZ\DZ_11_\DZ_11\MenuStrip\bin\Debug\MenuStrip.pdb
+E:\WindowsForms\DZ\DZ_11_\DZ_11\MenuStrip\obj\Debug\MenuStrip.csprojAssemblyReference.cache
+E:\WindowsForms\DZ\DZ_11_\DZ_11\MenuStrip\obj\Debug\MenuStrip.Form1.resources
+E:\WindowsForms\DZ\DZ_11_\DZ_11\MenuStrip\obj\Debug\MenuStrip.Form2.resources
+E:\WindowsForms\DZ\DZ_11_\DZ_11\MenuStrip\obj\Debug\MenuStrip.Form3.resources
+E:\WindowsForms\DZ\DZ_11_\DZ_11\MenuStrip\obj\Debug\MenuStrip.Properties.Resources.resources
+E:\WindowsForms\DZ\DZ_11_\DZ_11\MenuStrip\obj\Debug\MenuStrip.csproj.GenerateResource.cache
+E:\WindowsForms\DZ\DZ_11_\DZ_11\MenuStrip\obj\Debug\MenuStrip.csproj.CoreCompileInputs.cache
+E:\WindowsForms\DZ\DZ_11_\DZ_11\MenuStrip\obj\Debug\MenuStrip.exe
+E:\WindowsForms\DZ\DZ_11_\DZ_11\MenuStrip\obj\Debug\MenuStrip.pdb
