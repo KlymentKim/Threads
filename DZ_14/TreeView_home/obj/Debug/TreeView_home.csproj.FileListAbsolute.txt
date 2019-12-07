@@ -1,0 +1,63 @@
+C:\Users\student\source\repos\DZ_14\TreeView_home\obj\Debug\TreeView_home.csprojResolveAssemblyReference.cache
+C:\Users\student\source\repos\DZ_14\TreeView_home\obj\Debug\TreeView_home.Form1.resources
+C:\Users\student\source\repos\DZ_14\TreeView_home\obj\Debug\TreeView_home.Properties.Resources.resources
+C:\Users\student\source\repos\DZ_14\TreeView_home\obj\Debug\TreeView_home.csproj.GenerateResource.cache
+C:\Users\student\source\repos\DZ_14\TreeView_home\obj\Debug\TreeView_home.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\DZ_14\TreeView_home\bin\Debug\TreeView_home.exe.config
+C:\Users\student\source\repos\DZ_14\TreeView_home\bin\Debug\TreeView_home.exe
+C:\Users\student\source\repos\DZ_14\TreeView_home\bin\Debug\TreeView_home.pdb
+C:\Users\student\source\repos\DZ_14\TreeView_home\obj\Debug\TreeView_home.exe
+C:\Users\student\source\repos\DZ_14\TreeView_home\obj\Debug\TreeView_home.pdb
+E:\WindowsForms\DZ\DZ_14\DZ_14\TreeView_home\bin\Debug\TreeView_home.exe.config
+E:\WindowsForms\DZ\DZ_14\DZ_14\TreeView_home\bin\Debug\TreeView_home.exe
+E:\WindowsForms\DZ\DZ_14\DZ_14\TreeView_home\bin\Debug\TreeView_home.pdb
+E:\WindowsForms\DZ\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.csprojAssemblyReference.cache
+E:\WindowsForms\DZ\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.Form1.resources
+E:\WindowsForms\DZ\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.Properties.Resources.resources
+E:\WindowsForms\DZ\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.csproj.GenerateResource.cache
+E:\WindowsForms\DZ\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.csproj.CoreCompileInputs.cache
+E:\WindowsForms\DZ\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.exe
+E:\WindowsForms\DZ\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.pdb
+e:\WindowsForms\DZ\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.Form2.resources
+D:\Kim\WINDOWS FORMS2\DZ_14\DZ_14\TreeView_home\bin\Debug\TreeView_home.exe.config
+D:\Kim\WINDOWS FORMS2\DZ_14\DZ_14\TreeView_home\bin\Debug\TreeView_home.exe
+D:\Kim\WINDOWS FORMS2\DZ_14\DZ_14\TreeView_home\bin\Debug\TreeView_home.pdb
+D:\Kim\WINDOWS FORMS2\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.csprojResolveAssemblyReference.cache
+D:\Kim\WINDOWS FORMS2\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.Form1.resources
+D:\Kim\WINDOWS FORMS2\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.Form2.resources
+D:\Kim\WINDOWS FORMS2\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.Properties.Resources.resources
+D:\Kim\WINDOWS FORMS2\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.csproj.GenerateResource.cache
+D:\Kim\WINDOWS FORMS2\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.csproj.CoreCompileInputs.cache
+D:\Kim\WINDOWS FORMS2\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.exe
+D:\Kim\WINDOWS FORMS2\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.pdb
+E:\WindowsForms\DZ_14\DZ_14\TreeView_home\bin\Debug\TreeView_home.exe.config
+E:\WindowsForms\DZ_14\DZ_14\TreeView_home\bin\Debug\TreeView_home.exe
+E:\WindowsForms\DZ_14\DZ_14\TreeView_home\bin\Debug\TreeView_home.pdb
+E:\WindowsForms\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.csprojAssemblyReference.cache
+E:\WindowsForms\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.Form1.resources
+E:\WindowsForms\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.Form2.resources
+E:\WindowsForms\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.Properties.Resources.resources
+E:\WindowsForms\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.csproj.GenerateResource.cache
+E:\WindowsForms\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.csproj.CoreCompileInputs.cache
+E:\WindowsForms\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.exe
+E:\WindowsForms\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.pdb
+D:\Docs_Yuko\projects\ITSTEP\DZ_14\DZ_14\TreeView_home\bin\Debug\TreeView_home.exe.config
+D:\Docs_Yuko\projects\ITSTEP\DZ_14\DZ_14\TreeView_home\bin\Debug\TreeView_home.exe
+D:\Docs_Yuko\projects\ITSTEP\DZ_14\DZ_14\TreeView_home\bin\Debug\TreeView_home.pdb
+D:\Docs_Yuko\projects\ITSTEP\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.csprojAssemblyReference.cache
+D:\Docs_Yuko\projects\ITSTEP\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.Form1.resources
+D:\Docs_Yuko\projects\ITSTEP\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.Form2.resources
+D:\Docs_Yuko\projects\ITSTEP\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.Properties.Resources.resources
+D:\Docs_Yuko\projects\ITSTEP\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.csproj.GenerateResource.cache
+D:\Docs_Yuko\projects\ITSTEP\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.exe
+D:\Docs_Yuko\projects\ITSTEP\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.pdb
+E:\WindowsForms\DZ\Done\DZ_14\DZ_14\DZ_14\TreeView_home\bin\Debug\TreeView_home.exe.config
+E:\WindowsForms\DZ\Done\DZ_14\DZ_14\DZ_14\TreeView_home\bin\Debug\TreeView_home.exe
+E:\WindowsForms\DZ\Done\DZ_14\DZ_14\DZ_14\TreeView_home\bin\Debug\TreeView_home.pdb
+E:\WindowsForms\DZ\Done\DZ_14\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.csprojAssemblyReference.cache
+E:\WindowsForms\DZ\Done\DZ_14\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.Form1.resources
+E:\WindowsForms\DZ\Done\DZ_14\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.Properties.Resources.resources
+E:\WindowsForms\DZ\Done\DZ_14\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.csproj.GenerateResource.cache
+E:\WindowsForms\DZ\Done\DZ_14\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.csproj.CoreCompileInputs.cache
+E:\WindowsForms\DZ\Done\DZ_14\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.exe
+E:\WindowsForms\DZ\Done\DZ_14\DZ_14\DZ_14\TreeView_home\obj\Debug\TreeView_home.pdb
